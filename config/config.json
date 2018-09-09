@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "burgerdb",
+    "host": "localhost",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
